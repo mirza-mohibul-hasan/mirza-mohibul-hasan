@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mirza Mohibul Hasan</h1>
 <h3 align="center">A undergrad student from Jashore Univerity of Science and Technology</h3>
 
-- 🌱 I’m currently learning **Full Stack Development, System Analysis and Design**
+ 🌱 I’m currently learning **Full Stack Development, System Analysis and Design**
 
-- 💬 Ask me about **C++, C, Java, Android, JavaScript**
+ 💬 Ask me about **C++, C, Java, Android, JavaScript**
 
-- 📫 How to reach me **mirzamohibul618@gmail.com, 01991347811**
+ 📫 How to reach me **mirzamohibul618@gmail.com, 01991347811**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
