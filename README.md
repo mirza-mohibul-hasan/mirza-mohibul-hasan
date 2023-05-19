@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Mohibul Hasan</h1>
 <h3 align="center">A undergrad student from Jashore Univerity of Science and Technology</h3>
 
- 🌱 I’m currently learning **Full Stack Development, System Analysis and Design**
+ 🌱 I’m currently learning **Full Stack Development, Data Structures and Altorithms**
 
  💬 Ask me about **C++, C, Java, Android, JavaScript**
 
