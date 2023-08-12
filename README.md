@@ -3,7 +3,7 @@
 
  🌱 I’m currently learning **Full Stack Development, Data Structures and Altorithms**
 
- 💬 Ask me about **C++, C, Java, Android, JavaScript**
+ 💬 Ask me about **JavaScript, C++, C, Java, Android, React, Express.js, Node.js, MongoDB, SQL**
 
  📫 How to reach me **mirzamohibul618@gmail.com, 01991347811**
 
