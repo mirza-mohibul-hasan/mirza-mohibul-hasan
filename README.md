@@ -1,13 +1,5 @@
 ## Hi there, I am Mirza Mohibul Hasan
 
-### Currently working as an **AI/ML Development Intern** at Brain House.
-
-Previously, I worked as a **Software Developer** at Zenet Corporation Ltd remotely. Broadly, I am interested in **software engineering**, **AI/ML**, **data structures**, and **algorithms**.
-
-Currently, I am completing my undergrad at **Jashore University** in the **Computer Science and Engineering Department**. During my 3rd year, I joined **Technosoft Global Ltd** for a **Software Development** course affiliated with my department. I gained valuable experience in problem-solving, software development, and machine learning throughout my university years.
-
-I am also passionate about **competitive programming** and have participated in various coding contests and hackathons. These experiences have helped me strengthen my problem-solving skills and work effectively under pressure. Additionally, I am currently exploring **C#** and **.NET**, while focusing on learning **system design**.
-
 ## Currently working as an **Junior Software Engineer** at Zenet Co., Ltd(Japan, Remotely).
 
 Previously, I worked as a **AI/ML Development Intern** at Brain House. Broadly, I am interested in **AI/ML** and **Software Engineering**.
