@@ -1,6 +1,6 @@
 ## Hi there, I am Mirza Mohibul Hasan
 
-## Currently working as an **Junior Software Engineer** at Zenet Co., Ltd(Japan, Remotely).
+Currently working as an **Junior Software Engineer** at Zenet Co., Ltd(Japan, Remotely).
 
 Previously, I worked as a **AI/ML Development Intern** at Brain House. Broadly, I am interested in **AI/ML** and **Software Engineering**.
 
@@ -16,7 +16,8 @@ I am also passionate about **programming** and have participated in various **co
 - **AI/ML:** PyTorch, Scikit-Learn, HuggingFace, U-Net, Transformers, NLP, Computer Vision, LLM, RAG
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Data Cleaning, Data Annotation/Augmentation
 - **APIs & Deployment:** REST API, JWT, Swagger, Payment Gateway, WebSocket
-- **Tools:** Docker, Git, Postman, Linux, Windows IIS Server, Jupyter Notebook 
+- **Tools:** Docker, Git, Postman, Linux, Windows IIS Server, Jupyter Notebook
+
 If you're passionate about **AI**, **software development**, or **problem-solving**, I would love to connect and share ideas! Feel free to reach out if you'd like to collaborate on projects, discuss new technologies, or exchange insights on **software engineering**, **machine learning**, or **competitive programming**.
 
 
