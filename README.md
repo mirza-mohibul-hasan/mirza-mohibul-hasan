@@ -9,7 +9,7 @@ I have completed my graduation from Jashore University of Science and Technology
 I am also passionate about **programming** and have participated in various **coding contests** and **hackathons**. These experiences have helped me strengthen my **problem-solving** skills and work effectively under pressure.
 
 ### 🚀 Technologies I have explored:
-- **Languages:** C++, JavaScript, Python, C#, Java
+- **Languages:** C++, JavaScript, Python, Rust, C#, Java
 - **Frontend:** HTML, CSS, TailwindCSS, React.js, Next.js, Vue.js
 - **Backend:** Node.js, Express.js, FastAPI, Flask, Spring Boot, .NET
 - **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
