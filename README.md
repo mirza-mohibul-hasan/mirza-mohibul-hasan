@@ -1,6 +1,6 @@
 ## Hi there, I am Mirza Mohibul Hasan
 
-Currently working as an **Junior Software Engineer** at Zenet Co., Ltd(Japan, Remotely).
+Currently working as an **Software Engineer(Backend)** at TDI.
 
 Previously, I worked as a **AI/ML Development Intern** at Brain House. Broadly, I am interested in **AI/ML** and **Software Engineering**.
 
